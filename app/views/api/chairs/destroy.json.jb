@@ -1,0 +1,5 @@
+{
+  message: "Deleted Chair",
+  id: @chair.id,
+  description: @chair.description
+}

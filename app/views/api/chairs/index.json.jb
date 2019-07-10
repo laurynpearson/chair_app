@@ -1,0 +1,8 @@
+@chair.map.each do |chair|
+  {
+    id: chair.id,
+    price: chair.price,
+    color: chair.color,
+    description: chair.description
+  }
+end
